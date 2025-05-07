@@ -52,8 +52,8 @@
 
 ## 🔗 Let's Connect!
 
-- 📫 [raveest56@gmail.com](mailto:raveest56@gmail.com) *(Replace with actual)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/ravindu-nayanaka-dayarathna-b7b692247) *(Optional)*
+- 📫 [raveest56@gmail.com](mailto:raveest56@gmail.com) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/ravindu-nayanaka-dayarathna-b7b692247) 
 - 🌐 Portfolio: Coming soon!
 
 Thanks for stopping by — let's build something amazing together! 👨‍💻✨
