@@ -52,7 +52,7 @@
 
 ## 🔗 Let's Connect!
 
-- 📫 [ravee@example.com](mailto:ravee@example.com) *(Replace with actual)*
+- 📫 [ravee@example.com](mailto:raveest56@gmail.com) *(Replace with actual)*
 - 💼 [LinkedIn](https://www.linkedin.com/in/ravindu-nayanaka-dayarathna-b7b692247) *(Optional)*
 - 🌐 Portfolio: Coming soon!
 
