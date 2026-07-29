@@ -30,6 +30,8 @@ public class Ravee extends Engineer {
         "ML Research: Spleen Dimension Prediction (Deployed on Streamlit)",
         "Platform Dev: EQuipHub — University Equipment Management System",
         "App Dev: Amigo — WebRTC Video Conferencing Platform",
+        "Open Source: CultivOS — Agricultural OS for Sri Lanka",
+        "Embedded: SentinelBox — IoT Security & Monitoring System",
         "Embedded: Smart Wheelchair with Sensor Fusion & Motor Control"
     };
 
@@ -57,6 +59,7 @@ public class Ravee extends Engineer {
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black"/>
 </p>
 
 ### 🌐 Backend, Data & Frameworks
@@ -68,6 +71,7 @@ public class Ravee extends Engineer {
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 </p>
 
 ### 🤖 Embedded & Hardware
@@ -76,12 +80,14 @@ public class Ravee extends Engineer {
   <img src="https://img.shields.io/badge/PWM_Motor_Control-FF0000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HC--SR04_%7C_IR_%7C_RPM_Sensors-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/BTS7960_%7C_L293D_Drivers-FF8C00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IoT_Security-C0392B?style=for-the-badge"/>
 </p>
 
 ### 🧰 Tools & DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
@@ -136,6 +142,28 @@ public class Ravee extends Engineer {
       <b>Status:</b> 🟡 Active Development
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 CultivOS — Agricultural OS for Sri Lanka</h3>
+      <b>Open Source · AgriTech · Full-Stack</b>
+      <p>
+        Sri Lanka's open-source agricultural operating system integrating AI crop intelligence, GIS-based field mapping, an open marketplace, and farmer coordination tools — all in one unified platform.
+      </p>
+      <b>Stack:</b> Full-Stack · AI/ML · GIS · Open Source<br/>
+      <b>Status:</b> 🟡 Active Development<br/><br/>
+      <a href="https://github.com/Ravindu56/CultivOS">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ SentinelBox — IoT Security Monitor</h3>
+      <b>Embedded Systems · C++ · IoT Security</b>
+      <p>
+        An embedded IoT security and monitoring system built in C++. Focuses on hardware-level threat detection, sensor-based intrusion monitoring, and secure edge-device design principles.
+      </p>
+      <b>Stack:</b> C++ · Embedded Systems · IoT<br/>
+      <b>Status:</b> 🟡 Active Development<br/><br/>
+      <a href="https://github.com/Ravindu56/SentinelBox">🔗 View Repository</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -174,13 +202,13 @@ public class Ravee extends Engineer {
       <a href="https://github.com/Ravindu56/Simple-voting-app">🔗 Backend</a> · <a href="https://github.com/Ravindu56/Simple-voting-app-frontend-Angular">🔗 Frontend</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Petbot</h3>
-      <b>Python · Automation Bot</b>
+      <h3>💬 Simple Chat App</h3>
+      <b>Real-Time · WebSockets · HTML</b>
       <p>
-        An automation bot project built in Python, exploring event-driven programming and automated interaction logic.
+        A lightweight real-time chat application demonstrating WebSocket-based bidirectional communication with a clean browser-based interface.
       </p>
-      <b>Stack:</b> Python<br/>
-      <a href="https://github.com/Ravindu56/Petbot">🔗 View Repository</a>
+      <b>Stack:</b> HTML · JavaScript · WebSockets<br/>
+      <a href="https://github.com/Ravindu56/simple-chat-app">🔗 View Repository</a>
     </td>
   </tr>
   <tr>
@@ -200,6 +228,26 @@ public class Ravee extends Engineer {
       </p>
       <b>Stack:</b> Java · MySQL<br/>
       <a href="https://github.com/Ravindu56/SIMS">🔗 View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Petbot</h3>
+      <b>Python · Automation Bot</b>
+      <p>
+        An automation bot project built in Python, exploring event-driven programming and automated interaction logic.
+      </p>
+      <b>Stack:</b> Python<br/>
+      <a href="https://github.com/Ravindu56/Petbot">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Botzface</h3>
+      <b>Android · Kotlin · Computer Vision</b>
+      <p>
+        A Kotlin-based Android application integrating face recognition or bot interaction features, exploring mobile AI integration.
+      </p>
+      <b>Stack:</b> Kotlin · Android<br/>
+      <a href="https://github.com/Ravindu56/botzface">🔗 View Repository</a>
     </td>
   </tr>
 </table>
@@ -230,6 +278,7 @@ public class Ravee extends Engineer {
 | 🤖 Machine Learning | Supervised learning, model evaluation, scikit-learn pipelines |
 | ⚡ Distributed Systems | Apache Spark internals, cluster architecture, workload optimization |
 | 🔌 Signals & Systems | Fourier/Laplace analysis, Electronic Devices, MIPS Assembly |
+| 🐳 DevOps & Containers | Docker, CI/CD pipelines, cloud-native architecture |
 
 ---
 
@@ -237,6 +286,8 @@ public class Ravee extends Engineer {
 
 ### 🔴 Right Now
 - [ ] Finalize Multi-driver Spark research prototype and document findings
+- [ ] Grow CultivOS — build GIS field mapping and AI crop modules
+- [ ] Expand SentinelBox with advanced intrusion detection algorithms
 - [ ] Improve EQuipHub features (notifications, analytics, deployment)
 - [ ] Enhance Amigo platform (better UI, session management, stability)
 - [ ] Complete Smart Wheelchair auto-seat and reverse sensing additions
@@ -246,12 +297,14 @@ public class Ravee extends Engineer {
 - [ ] Extend the spleen model — add more features, improve R² scores
 - [ ] Build a personal portfolio website with all project write-ups
 - [ ] Contribute to an open-source Spring Boot or ML project
+- [ ] Integrate Docker/Kubernetes into existing project deployments
 
 ### 🟢 Future Scope
 - [ ] Cloud-scale big data pipelines (Spark + cloud)
 - [ ] Edge ML integration into embedded systems
 - [ ] Biomedical AI research — expand the clinical ML work
 - [ ] Explore Kubernetes for container orchestration and microservices
+- [ ] Scale CultivOS for real Sri Lankan farming communities
 
 ---
 
